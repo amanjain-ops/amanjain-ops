@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=amanjain-ops&color=green)
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Swift
 
 
 <!-- [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanjain-ops)](https://github.com/amanjain-ops/github-readme-stats) -->
