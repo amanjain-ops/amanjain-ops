@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=amanjain-ops&color=green)
 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Machine Learning
 
 
 <!-- [![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanjain-ops)](https://github.com/amanjain-ops/github-readme-stats) -->
@@ -14,12 +14,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanjain-ops&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aman's GitHub Stats" />
 </a>
 
-<a href="https://github.com/amanjain-ops/Clock">
+<a href="https://github.com/amanjain-ops/movie_recommender_system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanjain-ops&repo=Clock&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/amanjain-ops/expense_planner">
+<a href="https://github.com/amanjain-ops/spam_detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanjain-ops&repo=expense_planner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
